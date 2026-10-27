@@ -1,0 +1,6 @@
+commit- save version
+push-local to remote
+pull- remote to local
+clone-copy
+merge-replace/combine
+branch-backup 
