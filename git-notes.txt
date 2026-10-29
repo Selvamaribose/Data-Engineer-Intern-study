@@ -1,0 +1,27 @@
+distributed version control-
+centralized version control-
+
+Git - software installed on computer(local)
+GitHub-cloud storage(remote)
+
+git add . - file staging
+git push - l to r
+git pull - r to l
+git commit - save
+
+repo-folder
+
+git init - create
+git checkout - status checking
+git branch - 
+
+
+
+workflow
+
+{ git init - git add - git commit }
+
+git clone  url
+git remote -v - fetch
+git remote add origin url
+
